@@ -39,7 +39,8 @@ The goal of this challenge is to learn, practice, and document DevOps concepts, 
 | Day                         | Topic                                       | Status      |
 | --------------------------- | ------------------------------------------- | ----------- |
 | [Day 01](./Day-01/notes.md) | Linux User Setup with Non-Interactive Shell | ✅ Completed |
-| [Day 02](./Day-02/README.md) | Temporary User Setup with Expiry           | ✅ Completed | 
+| [Day 02](./Day-02/README.md) | Temporary User Setup with Expiry           | ✅ Completed |
+| [Day 48](./Day-48/README.md) | Deploy Pods in Kubernetes Cluster          | ✅ Completed | 
 | ...                         | ...                                         | ...         |
 | Day 100                     | Final Day 🎉                                | ⏳ Pending   |
 
