@@ -41,6 +41,7 @@ The goal of this challenge is to learn, practice, and document DevOps concepts, 
 | [Day 01](./Day-01/notes.md)  | Linux User Setup with Non-Interactive Shell      | ✅ Completed |
 | [Day 02](./Day-02/README.md) | Temporary User Setup with Expiry                 | ✅ Completed |
 | [Day 03](./Day-03/README.md) | Secure Root SSH Access                           | ✅ Completed |
+| [Day 04](./Day-04/README.md) | Script Execution Permissions                     | ✅ Completed |
 | [Day 48](./Day-48/README.md) | Deploy Pods in Kubernetes Cluster                | ✅ Completed | 
 | [Day 49](./Day-49/README.md) | Deploy Applications with Kubernetes Deployments  | ✅ Completed |
 | ...                         | ...                                         | ...         |
