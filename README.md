@@ -43,6 +43,7 @@ The goal of this challenge is to learn, practice, and document DevOps concepts, 
 | [Day 03](./Day-03/README.md) | Secure Root SSH Access                           | ✅ Completed |
 | [Day 04](./Day-04/README.md) | Script Execution Permissions                     | ✅ Completed |
 | [Day 05](./Day-05/README.md) | SElinux Installation and Configuration           | ✅ Completed |
+| [Day 06](./Day-06/README.md) | Create a Cron Job                                | ✅ Completed |
 | [Day 48](./Day-48/README.md) | Deploy Pods in Kubernetes Cluster                | ✅ Completed | 
 | [Day 49](./Day-49/README.md) | Deploy Applications with Kubernetes Deployments  | ✅ Completed |
 | ...                         | ...                                         | ...         |
